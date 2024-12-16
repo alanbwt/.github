@@ -1,4 +1,4 @@
-# BlueLightAI
+# BluelightAI
 
 Welcome to [BluelightAI's](https://bluelightai.com/) GitHub! We build tools to
 help AI developers illuminate and improve their models and data.
