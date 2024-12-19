@@ -9,7 +9,9 @@ The time you have to understand and fix your model’s errors is limited,
 expensive and hard to scale to the size of your dataset. Cobalt automates the
 otherwise painful step of looking for patterns in how your models are
 performing. We're here to make [topological data
-analysis](https://www.nature.com/articles/srep01236) easy to use. Read about our examples below, and see them [here])https://github.com/BlueLightAI/cobalt-examples) or in our [docs](https://docs.cobalt.bluelightai.com/setup.html)
+analysis](https://www.nature.com/articles/srep01236) easy to use. 
+
+Read about our examples below, and see the code [here](https://github.com/BlueLightAI/cobalt-examples) or in our [docs](https://docs.cobalt.bluelightai.com/setup.html)
 
 ### Setup
 
