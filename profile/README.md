@@ -11,7 +11,7 @@ otherwise painful step of looking for patterns in how your models are
 performing. We're here to make [topological data
 analysis](https://www.nature.com/articles/srep01236) easy to use. 
 
-Read about our examples below, and see the code [here](https://github.com/BlueLightAI/cobalt-examples) or in our [docs](https://docs.cobalt.bluelightai.com/setup.html)
+Read about our examples below, and see the code [here](https://github.com/BlueLightAI/cobalt-examples) or in our [docs](https://docs.cobalt.bluelightai.com/examples.html).
 
 ### Setup
 
@@ -19,7 +19,7 @@ For the latest instructions to [pip
 install](https://pypi.org/project/cobalt-ai/) cobalt-ai for your environment,
 visit our [docs](https://docs.cobalt.bluelightai.com/setup.html).
 
-## Cobalt
+## What Cobalt Can Do
 
 BluelightAI Cobalt illuminates model errors and makes model performance
 comparisons easy in Python:
